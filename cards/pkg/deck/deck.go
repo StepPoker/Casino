@@ -4,12 +4,14 @@ import (
 	"crypto/rand"
 	"errors"
 	"math/big"
-	"github.com/StepPoker/Casino/tree/main/cards/pkg/card"
+
+	"github.com/StepPoker/Casino/cards/pkg/card"
 )
 
 type Deck struct {
 	cards []card.Card
 }
+
 // NewDeck returns a new ordered 52-card deck.
 func NewDeck() *Deck {
 	cards := make([]card.Card, 52)

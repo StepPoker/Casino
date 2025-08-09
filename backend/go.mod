@@ -1,3 +1,3 @@
-module github.com/yourname/my-casino/backend
+module github.com/StepPoker/Casino/backend
 
 go 1.24.5

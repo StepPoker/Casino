@@ -1,3 +1,3 @@
-module github.com/yourname/my-casino/shared-lib
+module github.com/StepPoker/Casino/shared-lib
 
 go 1.24.5

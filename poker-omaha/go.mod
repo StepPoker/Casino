@@ -1,3 +1,3 @@
-module github.com/yourname/my-casino/poker-omaha
+module github.com/StepPoker/Casino/poker-omaha
 
 go 1.24.5

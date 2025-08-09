@@ -1,3 +1,3 @@
-module github.com/yourname/my-casino/poker-core
+module github.com/StepPoker/Casino/poker-core
 
 go 1.24.5
